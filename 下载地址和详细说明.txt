@@ -1,0 +1,91 @@
+请先完整地查看以下说明(这很重要，可以减少不必要的麻烦)，链接失效请尝试其他链接
+
+1.游戏下载链接(原始版，不附加地图)
+https://p.qingstore.cn/s/NRQPHp
+https://cncncloud.com/s/VmbLsP
+
+2.合集(旧)，以前打包在一起的地图，没法分开了，没有特殊需求不建议下载，可以在下面【备注】地图来源直接搜索地图名
+更新至Part 1 P467 de_dustall
+https://p.qingstore.cn/s/kb0yH7
+https://cncncloud.com/s/09rMF4
+
+3.散装，从Part 1 P468开始更新至今的地图(实时更新) 查找地图 请 Ctrl+F 搜索关键词
+https://hehehe.lanzoui.com/b0dpgsjwj 提取码：9onn
+https://p.qingstore.cn/s/Qj3ehB
+https://cncncloud.com/s/n8mvio
+
+散装打包 目前已更新至 Part 5 P170 ka_nwk 每周五更新
+之后新出的地图不包含在内，请去散装下载
+
+散装打包1 从Part 1 P468至Part3 757 总共2000张地图
+https://p.qingstore.cn/s/2J3Ktm
+https://cncncloud.com/s/XmNlSM
+
+散装打包2 后续的地图
+https://p.qingstore.cn/s/e20vSb
+
+上周五到本周五之间新出的地图打包，方便每周来光顾的各位
+https://p.qingstore.cn/s/Br8LH3
+
+4.免安装版(已附加地图)更新进度与散装打包一致，也是每周五更新
+https://p.qingstore.cn/s/og3PTj
+注：免安装版为了节省空间，不包含俯视图、背景贴图、背景音乐等文件，并不影响正常游戏
+
+【备注】
+1.地图来源
+https://gamebanana.com/mods/cats/5474
+https://www.17buddies.rocks/17b2/View/Maps/Gam/1/Mod/1/Cat/0/All/0/Pag/1/Counter-Strike.html
+
+2.如果需要填写序列号，全输入A即可
+如果不想被序列号打扰，可以先下这个Q版CS1.6，用模式启动器打个序列号补丁
+进入Q版CS1.6玩一局，然后退出来再玩CS1.6就不会弹出序列号了
+https://p.qingstore.cn/s/rJmrH5
+https://cncncloud.com/s/lmvoTy
+
+3.如果玩起来比较卡(帧数低)，请把垂直同步关闭
+具体做法: 右键菜单 打开 NVIDIA控制面板，点击 管理3D设置
+在全局设置中把垂直同步关闭即可
+另外游戏默认帧数上限100帧
+可以通过如下方式修改
+打开控制台 按·(也就是数字1左边的按键)输入
+cl_showfps 1 显示FPS值 也就是游戏帧数
+developer 1 开启开发者模式
+fps_max 999 设置最大帧数 数字可以自己设置 不建议设过高，掉帧会导致游戏不流畅
+不过之后每次进游戏都要输一遍比较麻烦
+可以在Counter Strike 1.6\cstrike_schinese 的 config.cfg 里添加(打开方式用记事本)
+不过不知为何游戏退出后数据会重置，因此先打开config.cfg再运行游戏，退出游戏后再保存config.cfg即可
+
+4.如果变成英文版，请从根目录点击注册表切换中文版
+
+5.地图安装方法 打开路径 Counter Strike 1.6\cstrike
+(bsp、mdl、spr、wad是必须安装的，不然无法打开地图)
+bsp(地图)和nav(Bot路径点)放在maps文件夹里
+(res是联网效验文件，txt是说明，可以不装)
+mdl放在models
+spr放在sprites
+wad放在cstrike
+背景贴图放在gfx/env
+俯视图放在overviews，这里的txt是位置描述文件
+音频放在sound
+(独立文件夹里的文件要和文件夹一起放入，不然读取不了)
+(比如XXX文件夹含有ZZZ.mdl，要将XXX文件夹放进models，这样才能读取)
+(复制粘贴发现重名文件最好跳过)
+
+6.地图无法加载可能需要的文件
+https://p.qingstore.cn/s/JwGJcP
+https://cncncloud.com/s/wL6WCd
+缺失的纹理、模型可以在这里找
+https://www.17buddies.rocks/17b2/View/Wads/Gam/1/All/Pag/1/textures_Half-Life.html
+https://www.17buddies.rocks/17b2/Models.html
+
+7.查找地图 请 Ctrl+F 搜索关键词
+
+8.因录制原因胜利回合数设定在五局，可以在“新建游戏”的“游戏”一栏自行修改，0即为无限制
+当然你也可以修改其他属性，比如每局的时间、开局静止时间之类的
+
+9.Part的跳转链接
+Part 1 https://www.bilibili.com/video/av38380707
+Part 2 https://www.bilibili.com/video/av88339573
+Part 3 https://www.bilibili.com/video/av245569613
+Part 4 https://www.bilibili.com/video/av248983371
+Part 5 https://www.bilibili.com/video/av762346813
